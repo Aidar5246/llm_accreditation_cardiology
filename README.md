@@ -1,4 +1,7 @@
-FIRST LOOK AT THE POSSIBILITIES OF BIG LANGUAGE MODELS IN PASSING THE PRIMARY SPECIALIZED ACCREDITATION OF CARDIOLOGY RESIDENTS
+
+![](https://github.com/Aidar5246/llm_accreditation_cardiology/blob/main/boxplot.jpg)
+
+## FIRST LOOK AT THE POSSIBILITIES OF BIG LANGUAGE MODELS IN PASSING THE PRIMARY SPECIALIZED ACCREDITATION OF CARDIOLOGY RESIDENTS
 
 Annotation. Relevance. In recent years, there has been a growing interest in the use of Large Language Models (LLM) in various fields, including medicine. The recent success of OpenAI's ChatGPT on the United States Medical Licensing Examination (USMLE) highlights the potential of these technologies in medical education and decision making. However, research into the use of LLM in Russian healthcare is still limited.
 The purpose of this article is to compare various large language models for successful completion of the first stage of primary specialized accreditation of cardiology residents in Russia.
@@ -10,7 +13,7 @@ Keywords: artificial intelligence, large language models, primary specialized ac
 All materials used and results obtained are presented in this repository
 
 
-ПЕРВЫЙ ВЗГЛЯД НА ВОЗМОЖНОСТИ БОЛЬШИХ ЯЗЫКОВЫХ МОДЕЛЕЙ В ПРОХОЖДЕНИИ ПЕРВИЧНОЙ СПЕЦИАЛИЗИРОВАННОЙ АККРЕДИТАЦИИ ОРДИНАТОРОВ- КАРДИОЛОГОВ
+## ПЕРВЫЙ ВЗГЛЯД НА ВОЗМОЖНОСТИ БОЛЬШИХ ЯЗЫКОВЫХ МОДЕЛЕЙ В ПРОХОЖДЕНИИ ПЕРВИЧНОЙ СПЕЦИАЛИЗИРОВАННОЙ АККРЕДИТАЦИИ ОРДИНАТОРОВ- КАРДИОЛОГОВ
 
 Аннотация. Актуальность. В последние годы наблюдается рост интереса к использованию больших языковых моделей (Large Language Models, LLM) в различных областях, включая медицину. Недавний успех ChatGPT, разработанного компанией OpenAI, в прохождении медицинского лицензионного экзамена США (USMLE) подчеркивает потенциал этих технологий в медицинском образовании и принятии решений. Однако исследования в области применения LLM в российском здравоохранении пока ограничены.
 Целью данной статьи является сравнение различных больших языковых моделей на предмет успешного прохождения первого этапа первичной специализированной аккредитации ординаторов-кардиологов в России.
